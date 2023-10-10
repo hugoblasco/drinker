@@ -58,6 +58,7 @@ dependencies {
     //Koin
     implementation("io.insert-koin:koin-core:3.4.3")
     implementation("io.insert-koin:koin-android:3.4.3")
+    testImplementation("io.insert-koin:koin-test-junit4:3.4.3")
 
     // Retrofit
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
